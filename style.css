@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    margin-top: 5%;
+    background-image: url(/img/2960590-abstrato-aquarela-textura-papel-de-parede-fundo-vetor.jpg);
+    background-size: 100%;
+}
+
+.top{
+    background-color: azure;
+}
+
+input{
+    background-color: bisque;  
+}
